@@ -1,13 +1,13 @@
 {
   "name": "StartingTPL",
-  "version": "1.0.2",
+  "version": "1.13",
   "description": "Starting WebTPL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anton Mendelson",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
